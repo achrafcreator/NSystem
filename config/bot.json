@@ -1,0 +1,16 @@
+{
+    "dev": {
+        "owner_id": [""],
+        "support": "",
+        "website": ""
+    },
+    "bot": {
+        "connections": {
+            "mongoose": "",
+            "yt_api": ""
+        },
+        "setting": {
+            "main_prefix": ""
+        }
+    }
+}
