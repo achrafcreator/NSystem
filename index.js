@@ -1391,4 +1391,4 @@ client.on("message", async message => {
       })
   }
 });
-client.login("ODQ5NzIzMjUzNzUyOTg3NjU5.YLfUcg.2QMM8H1Fz17W0EBE5Q9-MonWeds");
+client.login("ODQ5NzI0Mzk1NjE4MDQxODY2.YLfVgw.40OM4OXN19W2YzqY1K6sKtknA8w");
