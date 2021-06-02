@@ -1,6 +1,6 @@
 {
     "dev": {
-        "owner_id": [""],
+        "owner_id": ["630020193212694528"],
         "support": "",
         "website": ""
     },
@@ -10,7 +10,7 @@
             "yt_api": ""
         },
         "setting": {
-            "main_prefix": ""
+            "main_prefix": "!"
         }
     }
 }
